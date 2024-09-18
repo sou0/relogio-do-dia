@@ -3,8 +3,6 @@ img = document.getElementById('img')
 display = document.getElementById('hora')
 display2= document.getElementById('momento')
 
-madrugada=""
-
 function relogio() {
     agora = new Date()
     hora = agora.getHours().toString().padStart(2, '0');
