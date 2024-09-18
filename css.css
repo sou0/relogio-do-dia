@@ -1,0 +1,37 @@
+body{
+    background-color: #a87221;
+    font: normal 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+header{
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+p#momento{
+    font-size: 20px;
+}
+section{
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    box-shadow: 10px 10px 10px 10px#00000052;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+
+
+}
